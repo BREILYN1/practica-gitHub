@@ -1,0 +1,14 @@
+D:\breylin.velasquezh\Documents\supermercado\supermercado\bin\Debug\netcoreapp3.1\supermercado.exe
+D:\breylin.velasquezh\Documents\supermercado\supermercado\bin\Debug\netcoreapp3.1\supermercado.deps.json
+D:\breylin.velasquezh\Documents\supermercado\supermercado\bin\Debug\netcoreapp3.1\supermercado.runtimeconfig.json
+D:\breylin.velasquezh\Documents\supermercado\supermercado\bin\Debug\netcoreapp3.1\supermercado.runtimeconfig.dev.json
+D:\breylin.velasquezh\Documents\supermercado\supermercado\bin\Debug\netcoreapp3.1\supermercado.dll
+D:\breylin.velasquezh\Documents\supermercado\supermercado\bin\Debug\netcoreapp3.1\supermercado.pdb
+D:\breylin.velasquezh\Documents\supermercado\supermercado\obj\Debug\netcoreapp3.1\supermercado.csproj.AssemblyReference.cache
+D:\breylin.velasquezh\Documents\supermercado\supermercado\obj\Debug\netcoreapp3.1\supermercado.GeneratedMSBuildEditorConfig.editorconfig
+D:\breylin.velasquezh\Documents\supermercado\supermercado\obj\Debug\netcoreapp3.1\supermercado.AssemblyInfoInputs.cache
+D:\breylin.velasquezh\Documents\supermercado\supermercado\obj\Debug\netcoreapp3.1\supermercado.AssemblyInfo.cs
+D:\breylin.velasquezh\Documents\supermercado\supermercado\obj\Debug\netcoreapp3.1\supermercado.csproj.CoreCompileInputs.cache
+D:\breylin.velasquezh\Documents\supermercado\supermercado\obj\Debug\netcoreapp3.1\supermercado.dll
+D:\breylin.velasquezh\Documents\supermercado\supermercado\obj\Debug\netcoreapp3.1\supermercado.pdb
+D:\breylin.velasquezh\Documents\supermercado\supermercado\obj\Debug\netcoreapp3.1\supermercado.genruntimeconfig.cache
